@@ -1,0 +1,140 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+background-color: #818181;
+
+
+}
+
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header, footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+header nav ul {
+    list-style: none;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+section {
+    padding: 50px 0;
+}
+
+h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #f00;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #d00;
+}
+
+.servico {
+    margin-bottom: 40px;
+}
+
+.servico img {
+   display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.membro {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.membro img {
+    width: 250px;
+    height: 250px;
+    border-radius: 25px;
+    object-fit: cover;
+}
+
+form input,
+form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+form button {
+    background-color: #f00;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+       font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+form button:hover {
+    background-color: #d00;
+    box-shadow: 3px 3px 3px     
+}
+
+
+img{
+height: 300px;
+border-radius: 100px;
+
+
+}
+
+.numero{
+color: rgb(29, 240, 29);
+}
+
+
+.zap{
+width: 20px;
+    height: 20px;
+}

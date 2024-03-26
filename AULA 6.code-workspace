@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "AULA 6"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "aula5",
+		"liveServer.settings.port": 5501
+	}
+}

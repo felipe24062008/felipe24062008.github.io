@@ -1,0 +1,42 @@
+body{
+    background-color: #818181;
+    
+    
+    }
+    
+    body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    th, td {
+        border: 1px solid black;
+        padding: 8px;
+        text-align: center;
+    }
+    th {
+        background-color: #333;
+        color: white;
+    }
+
+    
+        body{
+background-color: #818181;
+
+
+}
+
+body {
+font-family: Arial, sans-serif;
+line-height: 1.6;
+}
+    
+h1{
+text-align: center;
+
+
+}

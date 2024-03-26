@@ -1,0 +1,13 @@
+@font-face {
+    font-family: fonte;
+    src: url(/public/assents/WeirdComic-Italic.ttf);
+
+}
+
+body{
+font-family: fonte;
+;
+
+
+}
+
